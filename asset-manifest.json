@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/my-port/static/css/main.d1b05096.chunk.css",
-    "main.js": "/my-port/static/js/main.f3fca739.chunk.js",
-    "main.js.map": "/my-port/static/js/main.f3fca739.chunk.js.map",
+    "main.css": "/my-port/static/css/main.b2c617fc.chunk.css",
+    "main.js": "/my-port/static/js/main.f23d22ec.chunk.js",
+    "main.js.map": "/my-port/static/js/main.f23d22ec.chunk.js.map",
     "runtime-main.js": "/my-port/static/js/runtime-main.4280957f.js",
     "runtime-main.js.map": "/my-port/static/js/runtime-main.4280957f.js.map",
-    "static/js/2.73095b9d.chunk.js": "/my-port/static/js/2.73095b9d.chunk.js",
-    "static/js/2.73095b9d.chunk.js.map": "/my-port/static/js/2.73095b9d.chunk.js.map",
+    "static/js/2.0f342bad.chunk.js": "/my-port/static/js/2.0f342bad.chunk.js",
+    "static/js/2.0f342bad.chunk.js.map": "/my-port/static/js/2.0f342bad.chunk.js.map",
     "index.html": "/my-port/index.html",
-    "precache-manifest.ab6232f490b4352a13c392577315dba5.js": "/my-port/precache-manifest.ab6232f490b4352a13c392577315dba5.js",
+    "precache-manifest.a295933bdb14a9b1bb1d68bf923eb196.js": "/my-port/precache-manifest.a295933bdb14a9b1bb1d68bf923eb196.js",
     "service-worker.js": "/my-port/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/my-port/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.73095b9d.chunk.js.LICENSE": "/my-port/static/js/2.73095b9d.chunk.js.LICENSE",
-    "static/media/logo.svg": "/my-port/static/media/logo.5d5d9eef.svg"
+    "static/css/main.b2c617fc.chunk.css.map": "/my-port/static/css/main.b2c617fc.chunk.css.map",
+    "static/js/2.0f342bad.chunk.js.LICENSE": "/my-port/static/js/2.0f342bad.chunk.js.LICENSE",
+    "static/media/coverStyle.css": "/my-port/static/media/cover2.163001df.jpg",
+    "static/media/facebook.png": "/my-port/static/media/facebook.88a6db57.png",
+    "static/media/ig.png": "/my-port/static/media/ig.2e9d9821.png",
+    "static/media/line.png": "/my-port/static/media/line.b37a7e82.png",
+    "static/media/profile.jpg": "/my-port/static/media/profile.92ca92bb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4280957f.js",
-    "static/js/2.73095b9d.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f3fca739.chunk.js"
+    "static/js/2.0f342bad.chunk.js",
+    "static/css/main.b2c617fc.chunk.css",
+    "static/js/main.f23d22ec.chunk.js"
   ]
 }
