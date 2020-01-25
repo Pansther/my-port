@@ -1,0 +1,51 @@
+.cover-container {
+  background-image: url('./../img/cover2.jpg');
+  background-size: 100% 100%;
+}
+
+.profile-box {
+  width: 25%;
+  margin: 0 auto;
+  z-index: 1;
+  padding-top: 5%;
+}
+
+.profile-img {
+  width: 100%;
+  border-radius: 50%;
+  border: 10px solid rgba(255, 255, 255, 0.9);
+  box-sizing: border-box;
+}
+
+.name-box {
+  background: skyblue;
+  text-align: center;
+  margin: 2% 0 2% 0;
+  padding: 0;
+}
+
+.name-box .name-text {
+  color: white; 
+  padding: 1% 0 1% 0;
+  margin: 0;
+}
+
+.contact-box {
+  width: 30%;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  !padding-left: 3%;
+  !background: red;
+}
+
+.contact-box .icon {
+  width: 23%;
+  padding: 10px 5% 10px 5%;
+  !float: left;
+}
+
+.cover-img {
+  width: 100%;
+  height: 600px;
+  filter: contrast(30%);
+}
